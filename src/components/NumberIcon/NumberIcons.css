@@ -1,0 +1,9 @@
+.num-icon {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #8a8a8a;
+  border-radius: 4px;
+  /* padding: 2; */
+  font-weight: 700;
+  color: #8a8a8a;
+}

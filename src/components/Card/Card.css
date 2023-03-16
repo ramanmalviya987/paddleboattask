@@ -1,0 +1,35 @@
+.container {
+  height: 192px;
+  margin-top: 12px;
+  width: 168px;
+  background-color: white;
+  border-radius: 8px;
+  border: 2px;
+  display: flex;
+  box-sizing: border-box;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 3px 0px;
+  cursor: pointer;
+
+}
+.card-para-height{
+/* background-color: green; */
+color: #276AE8;
+line-height: 110%;
+}
+
+.sub-container {
+  background-color: rgba(222, 222, 222, 1);
+  height: 136px;
+  width: 139px;
+  border-radius: 12px;
+/* box-sizing: border-box; */
+
+  top: 16px;
+  left: 16px;
+}
+
+
